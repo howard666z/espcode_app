@@ -1,0 +1,11 @@
+[2025-07-04 19:12:08] [javac-extractor-11393] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@/Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/log/ext/javac.args
+                                              user.dir=/Users/xujiancheng/Documents/LoopKey_app
+[2025-07-04 19:12:08] [javac-extractor-11393] Compilation name /Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/trap/java/diagnostics/diagnostic.trap.gz
+[2025-07-04 19:12:08] [javac-extractor-11393] [WARN] Appending source destination directory /Users/xujiancheng/Documents/LoopKey_app/secret_src/build/generated/sources/annotationProcessor/java/main to sourcepath
+[2025-07-04 19:12:09] [javac-extractor-11393] Processing file /Users/xujiancheng/Documents/LoopKey_app/secret_src/src/main/java/x/y/SecBridge.java
+[2025-07-04 19:12:13] [javac-extractor-11393] Javac init time: 0.7s
+[2025-07-04 19:12:13] [javac-extractor-11393] Javac attr time: 0.0s
+[2025-07-04 19:12:13] [javac-extractor-11393] Extractor time: 3.4s
+[2025-07-04 19:12:13] [javac-extractor-11393] Other time: 0.2s
+[2025-07-04 19:12:13] [javac-extractor-11393] Total time: 4.4s

@@ -1,0 +1,11 @@
+[2025-07-04 19:14:03] This is codeql query run pref_to_log.ql --database=loopkey-hardcode-db --output=pref_to_log.bqrs
+[2025-07-04 19:14:03] Log file was started late.
+[2025-07-04 19:14:03] Calling plumbing command: codeql resolve ram --dataset=/Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/db-java --format=json
+[2025-07-04 19:14:03] [PROGRESS] resolve ram> Stringpool size measured as 5800362
+[2025-07-04 19:14:03] Plumbing command codeql resolve ram completed:
+                      [
+                        "-J-Xmx3843M",
+                        "--off-heap-ram=4499"
+                      ]
+[2025-07-04 19:14:03] Chaining via /var/folders/0n/m_mt3lzs4bx6c_9f1t6h7qbh0000gq/T/codeql.XXXXXXXX.3DmJYW7i2E to plumbing: execute queries -J-Xmx3843M --off-heap-ram=4499 --verbosity=progress --logdir=/Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/log --evaluator-log-level=5 --warnings=show --qlconfig-file=/Users/xujiancheng/Documents/hardcode_app/app/release/release/qlconfig.yml --dynamic-join-order-mode=none --output=/Users/xujiancheng/Documents/hardcode_app/app/release/release/pref_to_log.bqrs -- /Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/db-java path:/Users/xujiancheng/Documents/hardcode_app/app/release/release/pref_to_log.ql
+[2025-07-04 19:14:03] Exiting with code 70

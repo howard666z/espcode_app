@@ -1,0 +1,11 @@
+[2025-07-04 19:12:35] [javac-extractor-11832] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@/Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/log/ext/javac-1.args
+                                              user.dir=/Users/xujiancheng/Documents/LoopKey_app/app
+[2025-07-04 19:12:35] [javac-extractor-11832] Compilation name /Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/trap/java/diagnostics/diagnostic-1.trap.gz
+[2025-07-04 19:12:36] [javac-extractor-11832] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-07-04 19:12:36] [javac-extractor-11832] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-07-04 19:12:36] [javac-extractor-11832] Javac init time: 1.0s
+[2025-07-04 19:12:36] [javac-extractor-11832] Javac attr time: 0.0s
+[2025-07-04 19:12:36] [javac-extractor-11832] Extractor time: 0.0s
+[2025-07-04 19:12:36] [javac-extractor-11832] Other time: 0.2s
+[2025-07-04 19:12:36] [javac-extractor-11832] Total time: 1.2s

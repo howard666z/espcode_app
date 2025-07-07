@@ -1,0 +1,7 @@
+---
+library: false
+warnOnImplicitThis: false
+compileForOverlayEval: false
+name: loopkey-ql
+version: 0.0.1
+libraryPathDependencies: codeql/java-all

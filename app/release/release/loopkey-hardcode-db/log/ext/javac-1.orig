@@ -1,0 +1,5 @@
+--system=none
+--patch-module=java.base=/Users/xujiancheng/Library/Android/sdk/platforms/android-35/core-for-system-modules.jar
+-d
+/Users/xujiancheng/.gradle/caches/8.10.2/transforms/2ae9bfe7a8388bf88f53eebc5d4b149f-683fe256-1573-4365-93b8-48bb46bee8f3/transformed/output/temp
+/Users/xujiancheng/.gradle/caches/8.10.2/transforms/2ae9bfe7a8388bf88f53eebc5d4b149f-683fe256-1573-4365-93b8-48bb46bee8f3/transformed/output/temp/module-info.java

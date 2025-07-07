@@ -1,0 +1,10 @@
+[2025-07-04 19:12:56] [javac-extractor-12059] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@/Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/log/ext/javac-3.args
+                                              user.dir=/Users/xujiancheng/Documents/LoopKey_app
+[2025-07-04 19:12:56] [javac-extractor-12059] Compilation name /Users/xujiancheng/Documents/hardcode_app/app/release/release/loopkey-hardcode-db/trap/java/diagnostics/diagnostic-3.trap.gz
+[2025-07-04 19:12:56] [javac-extractor-12059] [WARN] Appending source destination directory /Users/xujiancheng/Documents/LoopKey_app/app/build/generated/ap_generated_sources/release/out to sourcepath
+[2025-07-04 19:12:58] [javac-extractor-12059] Javac init time: 1.3s
+[2025-07-04 19:12:58] [javac-extractor-12059] Javac attr time: 0.5s
+[2025-07-04 19:12:58] [javac-extractor-12059] Extractor time: 0.0s
+[2025-07-04 19:12:58] [javac-extractor-12059] Other time: 0.2s
+[2025-07-04 19:12:58] [javac-extractor-12059] Total time: 2.1s
